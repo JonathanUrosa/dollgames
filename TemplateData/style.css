@@ -65,6 +65,7 @@ body {
     background: black;
 }
 
+/*
 #unity-fullscreen-button {
     position: absolute;
     right: 10px;
@@ -74,6 +75,7 @@ body {
     background: url('fullscreen-button.png') no-repeat center;
     background-size: contain;
 }
+*/
 
 .spinner,
 .spinner:after {
